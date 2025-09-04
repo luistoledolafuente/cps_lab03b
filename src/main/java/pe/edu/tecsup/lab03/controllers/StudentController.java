@@ -1,5 +1,7 @@
 package pe.edu.tecsup.lab03.controllers;
 
 public class StudentController {
-
+    public void init() {
+        System.out.println("StudentController inicializado.");
+    }
 }
